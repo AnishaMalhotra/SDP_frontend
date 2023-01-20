@@ -1,0 +1,26 @@
+.navbarr{
+    
+    color: rgb(255, 255, 255);
+    /*justify-content: left;
+    align-items:stretch;*/
+    gap: 22px;
+    height: 100px;
+    /* padding: 7px 16px; */
+    padding: 0 16px;
+    margin-bottom: 0px;
+    height: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  }
+
+button{
+    margin-left: 40px;
+    margin-right: 40px;
+} 
+
+img{
+    height: 60px;
+}
